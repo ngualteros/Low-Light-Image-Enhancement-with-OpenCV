@@ -1,0 +1,11 @@
+
+# Image Processing
+opencv-python
+numpy
+
+# Data Visualization
+matplotlib
+
+# Notebook Environment
+jupyter
+ipykernel
